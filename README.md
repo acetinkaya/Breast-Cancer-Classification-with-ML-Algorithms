@@ -19,6 +19,7 @@ Comparison of Classification Success Rates of Different Machine Learning Algorit
 - **Accepted**: December 25, 2022
 
 DOI: 10.31557/APJCP.2022.23.10.3287
+https://journal.waocp.org/article_90310.html
 
 Abstract
 
