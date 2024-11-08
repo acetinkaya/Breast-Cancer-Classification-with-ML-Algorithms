@@ -9,8 +9,8 @@ Comparison of Classification Success Rates of Different Machine Learning Algorit
 - **Hakan Aydın**  
   Department of Computer Engineering, Faculty of Engineering, Istanbul Topkapı University, Istanbul, Turkey
 
-- **Ali Cetinkaya***  
-  Department of Electronics Technology, Istanbul Gelişim Vocational School, Istanbul Gelişim University, Istanbul, Turkey  
+- **Ali Cetinkaya**  
+  Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
