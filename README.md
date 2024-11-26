@@ -35,9 +35,9 @@ Keywords: Machine Learning, Breast Cancer, Classification, Data Management, Info
 - **MLA**: Ozcan, Irem, Hakan Aydin, and Ali Cetinkaya. "Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer." *Asian Pacific Journal of Cancer Prevention*, vol. 23, no. 10, 2022, pp. 3287-3297. doi: [10.31557/APJCP.2022.23.10.3287](https://doi.org/10.31557/APJCP.2022.23.10.3287).
 
 
-![AlternatifMetin](https://github.com/acetinkaya/Breast-Cancer-Classification-with-ML-Algorithms/blob/main/Diseases-Classification.png)
-
 ## License
 This work is licensed under a [Creative Commons Attribution-Non Commercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), allowing non-commercial sharing and adaptation with proper attribution.
 
 ---
+
+![AlternatifMetin](https://github.com/acetinkaya/Breast-Cancer-Classification-with-ML-Algorithms/blob/main/Diseases-Classification.png)
